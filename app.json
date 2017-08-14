@@ -1,0 +1,15 @@
+{
+  "name": "docker-node-hello-adele",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
